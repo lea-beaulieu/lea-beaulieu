@@ -1,12 +1,12 @@
 ### Hi there, I'm Lea 👋
 
-📌 Financial controller with great interest in programming, currently working in the Luxury Industry
+📌 Financial controller with great interest in programming, currently working in the Luxury Fashion industry
 
 👩🏻‍💻 Stack : JavaScript (ES6), React, Express, NodeJS, HTML5, CSS
 
 🎓 Graduate of Ironhack web-development bootcamp (March 2022) & Skema Business School (2016) 
 
-🎯 Looking to collaborate on (volunteer) projects liaising with upcycling, fashion, design and ecological transition in order to learn and improve my skills.
+🎯 Looking to collaborate on (volunteer) projects liaising with upcycling, fashion, design and ecological transition in order to learn and improve my skills
 
 ### Feel free to contact me [✉️](mailto:beaulieu.lea@free.fr)
 
