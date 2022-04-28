@@ -1,6 +1,6 @@
 ### Hi there, I'm Lea 👋
 
-📌 Financial controller with great interest in programming, currently working in the Luxury Fashion industry
+📌 Financial controller with great interest in programming, currently working in the fashion industry
 
 👩🏻‍💻 Stack : JavaScript (ES6), React, Express, NodeJS, HTML5, CSS
 
